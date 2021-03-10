@@ -3,3 +3,6 @@
 
 ## Browser
 [[Browser] Reflow와 Repaint](https://beomy.github.io/tech/browser/reflow-repaint/) (by Beomy, 2019-12-06)
+
+## Javascript
+[JavaScript: What is the meaning of this?](https://web.dev/javascript-this/) (by Jake Archibald, 2021-03-08) - [번역](https://hyperflow.dev/Frontend/Javascript-this)
